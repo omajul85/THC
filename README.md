@@ -3,7 +3,9 @@ Travis CI, Hound and Coveralls set up
 
 [![Build Status](https://travis-ci.org/omajul85/THC.svg?branch=master)](https://travis-ci.org/omajul85/THC) [![Coverage Status](https://coveralls.io/repos/github/omajul85/THC/badge.svg?branch=coveralls)](https://coveralls.io/github/omajul85/THC?branch=coveralls)
 
-First of all, do not forget to create a Gemfile with the desired gems (for coveralls, rspec, etc...) and run bundle.
+[THC.png](https://postimg.org/image/n505nbhpr/)
+
+> First of all, do not forget to create a Gemfile with the desired gems (for coveralls, rspec, etc...) and run bundle.
 
 # Travis CI
 * Sign in in [Travis](https://travis-ci.org/profile/omajul85) and synchronise the list of repos
