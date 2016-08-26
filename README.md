@@ -1,6 +1,8 @@
 Travis CI, Hound and Coveralls set up
 =====================================
 
+First of all, do not forget to create a Gemfile with the desired gems (for coveralls, rspec, etc...) and run bundle.
+
 # Travis CI
 * Sign in in [Travis](https://travis-ci.org/profile/omajul85) and synchronise the list of repos
 * Search for the desired repo you want to control and check it
