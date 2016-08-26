@@ -1,0 +1,40 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/omajul/MA/THC/spec/fizzbuzz_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/omajul/MA/THC/lib/fizzbuzz.rb": [
+        1,
+        4,
+        3,
+        2,
+        1,
+        null,
+        null,
+        1,
+        9,
+        null
+      ]
+    },
+    "timestamp": 1472205133
+  }
+}
