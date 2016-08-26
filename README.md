@@ -22,3 +22,18 @@ rvm:
 # Hound
 * Sign in in [Hound](https://houndci.com/repos) and refresh the list of repos
 * Search for the desired repo you want to control and click on *Activate*
+
+# Coveralls
+* Sign in in [Coveralls](https://houndci.com/repos) and refresh the list of repos
+* Search for the desired repo you want to control and click on *Activate*
+* Add gem to your Gemfile
+
+```ruby
+gem 'coveralls', require: false
+```
+* In your spec_helper.rb or test_helper.rb include:
+
+```ruby
+require 'coveralls'
+Coveralls.wear!
+```
