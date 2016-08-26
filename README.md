@@ -1,6 +1,8 @@
 Travis CI, Hound and Coveralls set up
 =====================================
 
+[![Build Status](https://travis-ci.org/omajul85/THC.svg?branch=master)](https://travis-ci.org/omajul85/THC)
+
 First of all, do not forget to create a Gemfile with the desired gems (for coveralls, rspec, etc...) and run bundle.
 
 # Travis CI
@@ -14,6 +16,7 @@ rvm:
 - 2.3.0
 ```
 * Add the .travis.yml file to git, commit and push, to trigger a Travis CI build
+* Check the build status page to see if your build passes or fails
 
 
 # Hound
